@@ -9,294 +9,294 @@
      stroke-width="0.3"
      font-size="3.88"
 
-     id="fig-7f840015dc1942a0b5a78f13c69fb3b4">
-<g class="plotroot yscalable" id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-1">
-  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="none" id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-2">
+     id="fig-69762bf96f5b4199a77da663707c6612">
+<g class="plotroot yscalable" id="fig-69762bf96f5b4199a77da663707c6612-element-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="none" id="fig-69762bf96f5b4199a77da663707c6612-element-2">
     <text x="108.92" y="144.4" text-anchor="middle">subreddit</text>
   </g>
-  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-3">
-    <text x="20.96" y="107.43" text-anchor="end" transform="rotate(-90, 20.96, 107.43)" visibility="visible" gadfly:scale="1.0">Android</text>
-    <text x="23.63" y="107.43" text-anchor="end" transform="rotate(-90, 23.63, 107.43)" visibility="visible" gadfly:scale="1.0">Art</text>
-    <text x="26.29" y="107.43" text-anchor="end" transform="rotate(-90, 26.29, 107.43)" visibility="visible" gadfly:scale="1.0">CyanideandHappiness</text>
-    <text x="28.96" y="107.43" text-anchor="end" transform="rotate(-90, 28.96, 107.43)" visibility="visible" gadfly:scale="1.0">DotA2</text>
-    <text x="31.63" y="107.43" text-anchor="end" transform="rotate(-90, 31.63, 107.43)" visibility="visible" gadfly:scale="1.0">JusticePorn</text>
-    <text x="34.29" y="107.43" text-anchor="end" transform="rotate(-90, 34.29, 107.43)" visibility="visible" gadfly:scale="1.0">MURICA</text>
-    <text x="36.96" y="107.43" text-anchor="end" transform="rotate(-90, 36.96, 107.43)" visibility="visible" gadfly:scale="1.0">Music</text>
-    <text x="39.62" y="107.43" text-anchor="end" transform="rotate(-90, 39.62, 107.43)" visibility="visible" gadfly:scale="1.0">OSHA</text>
-    <text x="42.29" y="107.43" text-anchor="end" transform="rotate(-90, 42.29, 107.43)" visibility="visible" gadfly:scale="1.0">OldSchoolCool</text>
-    <text x="44.95" y="107.43" text-anchor="end" transform="rotate(-90, 44.95, 107.43)" visibility="visible" gadfly:scale="1.0">RealGirls</text>
-    <text x="47.62" y="107.43" text-anchor="end" transform="rotate(-90, 47.62, 107.43)" visibility="visible" gadfly:scale="1.0">australia</text>
-    <text x="50.28" y="107.43" text-anchor="end" transform="rotate(-90, 50.28, 107.43)" visibility="visible" gadfly:scale="1.0">behindthegifs</text>
-    <text x="52.95" y="107.43" text-anchor="end" transform="rotate(-90, 52.95, 107.43)" visibility="visible" gadfly:scale="1.0">blog</text>
-    <text x="55.61" y="107.43" text-anchor="end" transform="rotate(-90, 55.61, 107.43)" visibility="visible" gadfly:scale="1.0">books</text>
-    <text x="58.28" y="107.43" text-anchor="end" transform="rotate(-90, 58.28, 107.43)" visibility="visible" gadfly:scale="1.0">creepy</text>
-    <text x="60.94" y="107.43" text-anchor="end" transform="rotate(-90, 60.94, 107.43)" visibility="visible" gadfly:scale="1.0">dataisbeautiful</text>
-    <text x="63.61" y="107.43" text-anchor="end" transform="rotate(-90, 63.61, 107.43)" visibility="visible" gadfly:scale="1.0">hearthstone</text>
-    <text x="66.27" y="107.43" text-anchor="end" transform="rotate(-90, 66.27, 107.43)" visibility="visible" gadfly:scale="1.0">interestingasfuck</text>
-    <text x="68.94" y="107.43" text-anchor="end" transform="rotate(-90, 68.94, 107.43)" visibility="visible" gadfly:scale="1.0">lifehacks</text>
-    <text x="71.6" y="107.43" text-anchor="end" transform="rotate(-90, 71.6, 107.43)" visibility="visible" gadfly:scale="1.0">mildlyinfuriating</text>
-    <text x="74.27" y="107.43" text-anchor="end" transform="rotate(-90, 74.27, 107.43)" visibility="visible" gadfly:scale="1.0">nba</text>
-    <text x="76.93" y="107.43" text-anchor="end" transform="rotate(-90, 76.93, 107.43)" visibility="visible" gadfly:scale="1.0">nottheonion</text>
-    <text x="79.6" y="107.43" text-anchor="end" transform="rotate(-90, 79.6, 107.43)" visibility="visible" gadfly:scale="1.0">soccer</text>
-    <text x="82.26" y="107.43" text-anchor="end" transform="rotate(-90, 82.26, 107.43)" visibility="visible" gadfly:scale="1.0">standupshots</text>
-    <text x="84.93" y="107.43" text-anchor="end" transform="rotate(-90, 84.93, 107.43)" visibility="visible" gadfly:scale="1.0">tifu</text>
-    <text x="87.59" y="107.43" text-anchor="end" transform="rotate(-90, 87.59, 107.43)" visibility="visible" gadfly:scale="1.0">worldpolitics</text>
-    <text x="90.26" y="107.43" text-anchor="end" transform="rotate(-90, 90.26, 107.43)" visibility="visible" gadfly:scale="1.0">4chan</text>
-    <text x="92.92" y="107.43" text-anchor="end" transform="rotate(-90, 92.92, 107.43)" visibility="visible" gadfly:scale="1.0">Frugal</text>
-    <text x="95.59" y="107.43" text-anchor="end" transform="rotate(-90, 95.59, 107.43)" visibility="visible" gadfly:scale="1.0">ImGoingToHellForThis</text>
-    <text x="98.26" y="107.43" text-anchor="end" transform="rotate(-90, 98.26, 107.43)" visibility="visible" gadfly:scale="1.0">LifeProTips</text>
-    <text x="100.92" y="107.43" text-anchor="end" transform="rotate(-90, 100.92, 107.43)" visibility="visible" gadfly:scale="1.0">Unexpected</text>
-    <text x="103.59" y="107.43" text-anchor="end" transform="rotate(-90, 103.59, 107.43)" visibility="visible" gadfly:scale="1.0">atheism</text>
-    <text x="106.25" y="107.43" text-anchor="end" transform="rotate(-90, 106.25, 107.43)" visibility="visible" gadfly:scale="1.0">comics</text>
-    <text x="108.92" y="107.43" text-anchor="end" transform="rotate(-90, 108.92, 107.43)" visibility="visible" gadfly:scale="1.0">fantasyfootball</text>
-    <text x="111.58" y="107.43" text-anchor="end" transform="rotate(-90, 111.58, 107.43)" visibility="visible" gadfly:scale="1.0">sports</text>
-    <text x="114.25" y="107.43" text-anchor="end" transform="rotate(-90, 114.25, 107.43)" visibility="visible" gadfly:scale="1.0">woahdude</text>
-    <text x="116.91" y="107.43" text-anchor="end" transform="rotate(-90, 116.91, 107.43)" visibility="visible" gadfly:scale="1.0">StarWars</text>
-    <text x="119.58" y="107.43" text-anchor="end" transform="rotate(-90, 119.58, 107.43)" visibility="visible" gadfly:scale="1.0">oddlysatisfying</text>
-    <text x="122.24" y="107.43" text-anchor="end" transform="rotate(-90, 122.24, 107.43)" visibility="visible" gadfly:scale="1.0">pcmasterrace</text>
-    <text x="124.91" y="107.43" text-anchor="end" transform="rotate(-90, 124.91, 107.43)" visibility="visible" gadfly:scale="1.0">politics</text>
-    <text x="127.57" y="107.43" text-anchor="end" transform="rotate(-90, 127.57, 107.43)" visibility="visible" gadfly:scale="1.0">space</text>
-    <text x="130.24" y="107.43" text-anchor="end" transform="rotate(-90, 130.24, 107.43)" visibility="visible" gadfly:scale="1.0">television</text>
-    <text x="132.9" y="107.43" text-anchor="end" transform="rotate(-90, 132.9, 107.43)" visibility="visible" gadfly:scale="1.0">AskReddit</text>
-    <text x="135.57" y="107.43" text-anchor="end" transform="rotate(-90, 135.57, 107.43)" visibility="visible" gadfly:scale="1.0">EarthPorn</text>
-    <text x="138.23" y="107.43" text-anchor="end" transform="rotate(-90, 138.23, 107.43)" visibility="visible" gadfly:scale="1.0">GlobalOffensive</text>
-    <text x="140.9" y="107.43" text-anchor="end" transform="rotate(-90, 140.9, 107.43)" visibility="visible" gadfly:scale="1.0">bestof</text>
-    <text x="143.56" y="107.43" text-anchor="end" transform="rotate(-90, 143.56, 107.43)" visibility="visible" gadfly:scale="1.0">food</text>
-    <text x="146.23" y="107.43" text-anchor="end" transform="rotate(-90, 146.23, 107.43)" visibility="visible" gadfly:scale="1.0">trees</text>
-    <text x="148.89" y="107.43" text-anchor="end" transform="rotate(-90, 148.89, 107.43)" visibility="visible" gadfly:scale="1.0">reactiongifs</text>
-    <text x="151.56" y="107.43" text-anchor="end" transform="rotate(-90, 151.56, 107.43)" visibility="visible" gadfly:scale="1.0">cringepics</text>
-    <text x="154.22" y="107.43" text-anchor="end" transform="rotate(-90, 154.22, 107.43)" visibility="visible" gadfly:scale="1.0">leagueoflegends</text>
-    <text x="156.89" y="107.43" text-anchor="end" transform="rotate(-90, 156.89, 107.43)" visibility="visible" gadfly:scale="1.0">Showerthoughts</text>
-    <text x="159.55" y="107.43" text-anchor="end" transform="rotate(-90, 159.55, 107.43)" visibility="visible" gadfly:scale="1.0">science</text>
-    <text x="162.22" y="107.43" text-anchor="end" transform="rotate(-90, 162.22, 107.43)" visibility="visible" gadfly:scale="1.0">technology</text>
-    <text x="164.89" y="107.43" text-anchor="end" transform="rotate(-90, 164.89, 107.43)" visibility="visible" gadfly:scale="1.0">IAmA</text>
-    <text x="167.55" y="107.43" text-anchor="end" transform="rotate(-90, 167.55, 107.43)" visibility="visible" gadfly:scale="1.0">news</text>
-    <text x="170.22" y="107.43" text-anchor="end" transform="rotate(-90, 170.22, 107.43)" visibility="visible" gadfly:scale="1.0">worldnews</text>
-    <text x="172.88" y="107.43" text-anchor="end" transform="rotate(-90, 172.88, 107.43)" visibility="visible" gadfly:scale="1.0">movies</text>
-    <text x="175.55" y="107.43" text-anchor="end" transform="rotate(-90, 175.55, 107.43)" visibility="visible" gadfly:scale="1.0">mildlyinteresting</text>
-    <text x="178.21" y="107.43" text-anchor="end" transform="rotate(-90, 178.21, 107.43)" visibility="visible" gadfly:scale="1.0">videos</text>
-    <text x="180.88" y="107.43" text-anchor="end" transform="rotate(-90, 180.88, 107.43)" visibility="visible" gadfly:scale="1.0">gaming</text>
-    <text x="183.54" y="107.43" text-anchor="end" transform="rotate(-90, 183.54, 107.43)" visibility="visible" gadfly:scale="1.0">gifs</text>
-    <text x="186.21" y="107.43" text-anchor="end" transform="rotate(-90, 186.21, 107.43)" visibility="visible" gadfly:scale="1.0">todayilearned</text>
-    <text x="188.87" y="107.43" text-anchor="end" transform="rotate(-90, 188.87, 107.43)" visibility="visible" gadfly:scale="1.0">aww</text>
-    <text x="191.54" y="107.43" text-anchor="end" transform="rotate(-90, 191.54, 107.43)" visibility="visible" gadfly:scale="1.0">AdviceAnimals</text>
-    <text x="194.2" y="107.43" text-anchor="end" transform="rotate(-90, 194.2, 107.43)" visibility="visible" gadfly:scale="1.0">pics</text>
-    <text x="196.87" y="107.43" text-anchor="end" transform="rotate(-90, 196.87, 107.43)" visibility="visible" gadfly:scale="1.0">funny</text>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="fig-69762bf96f5b4199a77da663707c6612-element-3">
+    <text x="20.96" y="107.43" text-anchor="end" transform="rotate(-90, 20.96, 107.43)" gadfly:scale="1.0" visibility="visible">Android</text>
+    <text x="23.63" y="107.43" text-anchor="end" transform="rotate(-90, 23.63, 107.43)" gadfly:scale="1.0" visibility="visible">Art</text>
+    <text x="26.29" y="107.43" text-anchor="end" transform="rotate(-90, 26.29, 107.43)" gadfly:scale="1.0" visibility="visible">CyanideandHappiness</text>
+    <text x="28.96" y="107.43" text-anchor="end" transform="rotate(-90, 28.96, 107.43)" gadfly:scale="1.0" visibility="visible">DotA2</text>
+    <text x="31.63" y="107.43" text-anchor="end" transform="rotate(-90, 31.63, 107.43)" gadfly:scale="1.0" visibility="visible">JusticePorn</text>
+    <text x="34.29" y="107.43" text-anchor="end" transform="rotate(-90, 34.29, 107.43)" gadfly:scale="1.0" visibility="visible">MURICA</text>
+    <text x="36.96" y="107.43" text-anchor="end" transform="rotate(-90, 36.96, 107.43)" gadfly:scale="1.0" visibility="visible">Music</text>
+    <text x="39.62" y="107.43" text-anchor="end" transform="rotate(-90, 39.62, 107.43)" gadfly:scale="1.0" visibility="visible">OSHA</text>
+    <text x="42.29" y="107.43" text-anchor="end" transform="rotate(-90, 42.29, 107.43)" gadfly:scale="1.0" visibility="visible">OldSchoolCool</text>
+    <text x="44.95" y="107.43" text-anchor="end" transform="rotate(-90, 44.95, 107.43)" gadfly:scale="1.0" visibility="visible">RealGirls</text>
+    <text x="47.62" y="107.43" text-anchor="end" transform="rotate(-90, 47.62, 107.43)" gadfly:scale="1.0" visibility="visible">australia</text>
+    <text x="50.28" y="107.43" text-anchor="end" transform="rotate(-90, 50.28, 107.43)" gadfly:scale="1.0" visibility="visible">behindthegifs</text>
+    <text x="52.95" y="107.43" text-anchor="end" transform="rotate(-90, 52.95, 107.43)" gadfly:scale="1.0" visibility="visible">blog</text>
+    <text x="55.61" y="107.43" text-anchor="end" transform="rotate(-90, 55.61, 107.43)" gadfly:scale="1.0" visibility="visible">books</text>
+    <text x="58.28" y="107.43" text-anchor="end" transform="rotate(-90, 58.28, 107.43)" gadfly:scale="1.0" visibility="visible">creepy</text>
+    <text x="60.94" y="107.43" text-anchor="end" transform="rotate(-90, 60.94, 107.43)" gadfly:scale="1.0" visibility="visible">dataisbeautiful</text>
+    <text x="63.61" y="107.43" text-anchor="end" transform="rotate(-90, 63.61, 107.43)" gadfly:scale="1.0" visibility="visible">hearthstone</text>
+    <text x="66.27" y="107.43" text-anchor="end" transform="rotate(-90, 66.27, 107.43)" gadfly:scale="1.0" visibility="visible">interestingasfuck</text>
+    <text x="68.94" y="107.43" text-anchor="end" transform="rotate(-90, 68.94, 107.43)" gadfly:scale="1.0" visibility="visible">lifehacks</text>
+    <text x="71.6" y="107.43" text-anchor="end" transform="rotate(-90, 71.6, 107.43)" gadfly:scale="1.0" visibility="visible">mildlyinfuriating</text>
+    <text x="74.27" y="107.43" text-anchor="end" transform="rotate(-90, 74.27, 107.43)" gadfly:scale="1.0" visibility="visible">nba</text>
+    <text x="76.93" y="107.43" text-anchor="end" transform="rotate(-90, 76.93, 107.43)" gadfly:scale="1.0" visibility="visible">nottheonion</text>
+    <text x="79.6" y="107.43" text-anchor="end" transform="rotate(-90, 79.6, 107.43)" gadfly:scale="1.0" visibility="visible">soccer</text>
+    <text x="82.26" y="107.43" text-anchor="end" transform="rotate(-90, 82.26, 107.43)" gadfly:scale="1.0" visibility="visible">standupshots</text>
+    <text x="84.93" y="107.43" text-anchor="end" transform="rotate(-90, 84.93, 107.43)" gadfly:scale="1.0" visibility="visible">tifu</text>
+    <text x="87.59" y="107.43" text-anchor="end" transform="rotate(-90, 87.59, 107.43)" gadfly:scale="1.0" visibility="visible">worldpolitics</text>
+    <text x="90.26" y="107.43" text-anchor="end" transform="rotate(-90, 90.26, 107.43)" gadfly:scale="1.0" visibility="visible">4chan</text>
+    <text x="92.92" y="107.43" text-anchor="end" transform="rotate(-90, 92.92, 107.43)" gadfly:scale="1.0" visibility="visible">Frugal</text>
+    <text x="95.59" y="107.43" text-anchor="end" transform="rotate(-90, 95.59, 107.43)" gadfly:scale="1.0" visibility="visible">ImGoingToHellForThis</text>
+    <text x="98.26" y="107.43" text-anchor="end" transform="rotate(-90, 98.26, 107.43)" gadfly:scale="1.0" visibility="visible">LifeProTips</text>
+    <text x="100.92" y="107.43" text-anchor="end" transform="rotate(-90, 100.92, 107.43)" gadfly:scale="1.0" visibility="visible">Unexpected</text>
+    <text x="103.59" y="107.43" text-anchor="end" transform="rotate(-90, 103.59, 107.43)" gadfly:scale="1.0" visibility="visible">atheism</text>
+    <text x="106.25" y="107.43" text-anchor="end" transform="rotate(-90, 106.25, 107.43)" gadfly:scale="1.0" visibility="visible">comics</text>
+    <text x="108.92" y="107.43" text-anchor="end" transform="rotate(-90, 108.92, 107.43)" gadfly:scale="1.0" visibility="visible">fantasyfootball</text>
+    <text x="111.58" y="107.43" text-anchor="end" transform="rotate(-90, 111.58, 107.43)" gadfly:scale="1.0" visibility="visible">sports</text>
+    <text x="114.25" y="107.43" text-anchor="end" transform="rotate(-90, 114.25, 107.43)" gadfly:scale="1.0" visibility="visible">woahdude</text>
+    <text x="116.91" y="107.43" text-anchor="end" transform="rotate(-90, 116.91, 107.43)" gadfly:scale="1.0" visibility="visible">StarWars</text>
+    <text x="119.58" y="107.43" text-anchor="end" transform="rotate(-90, 119.58, 107.43)" gadfly:scale="1.0" visibility="visible">oddlysatisfying</text>
+    <text x="122.24" y="107.43" text-anchor="end" transform="rotate(-90, 122.24, 107.43)" gadfly:scale="1.0" visibility="visible">pcmasterrace</text>
+    <text x="124.91" y="107.43" text-anchor="end" transform="rotate(-90, 124.91, 107.43)" gadfly:scale="1.0" visibility="visible">politics</text>
+    <text x="127.57" y="107.43" text-anchor="end" transform="rotate(-90, 127.57, 107.43)" gadfly:scale="1.0" visibility="visible">space</text>
+    <text x="130.24" y="107.43" text-anchor="end" transform="rotate(-90, 130.24, 107.43)" gadfly:scale="1.0" visibility="visible">television</text>
+    <text x="132.9" y="107.43" text-anchor="end" transform="rotate(-90, 132.9, 107.43)" gadfly:scale="1.0" visibility="visible">AskReddit</text>
+    <text x="135.57" y="107.43" text-anchor="end" transform="rotate(-90, 135.57, 107.43)" gadfly:scale="1.0" visibility="visible">EarthPorn</text>
+    <text x="138.23" y="107.43" text-anchor="end" transform="rotate(-90, 138.23, 107.43)" gadfly:scale="1.0" visibility="visible">GlobalOffensive</text>
+    <text x="140.9" y="107.43" text-anchor="end" transform="rotate(-90, 140.9, 107.43)" gadfly:scale="1.0" visibility="visible">bestof</text>
+    <text x="143.56" y="107.43" text-anchor="end" transform="rotate(-90, 143.56, 107.43)" gadfly:scale="1.0" visibility="visible">food</text>
+    <text x="146.23" y="107.43" text-anchor="end" transform="rotate(-90, 146.23, 107.43)" gadfly:scale="1.0" visibility="visible">trees</text>
+    <text x="148.89" y="107.43" text-anchor="end" transform="rotate(-90, 148.89, 107.43)" gadfly:scale="1.0" visibility="visible">reactiongifs</text>
+    <text x="151.56" y="107.43" text-anchor="end" transform="rotate(-90, 151.56, 107.43)" gadfly:scale="1.0" visibility="visible">cringepics</text>
+    <text x="154.22" y="107.43" text-anchor="end" transform="rotate(-90, 154.22, 107.43)" gadfly:scale="1.0" visibility="visible">leagueoflegends</text>
+    <text x="156.89" y="107.43" text-anchor="end" transform="rotate(-90, 156.89, 107.43)" gadfly:scale="1.0" visibility="visible">Showerthoughts</text>
+    <text x="159.55" y="107.43" text-anchor="end" transform="rotate(-90, 159.55, 107.43)" gadfly:scale="1.0" visibility="visible">science</text>
+    <text x="162.22" y="107.43" text-anchor="end" transform="rotate(-90, 162.22, 107.43)" gadfly:scale="1.0" visibility="visible">technology</text>
+    <text x="164.89" y="107.43" text-anchor="end" transform="rotate(-90, 164.89, 107.43)" gadfly:scale="1.0" visibility="visible">IAmA</text>
+    <text x="167.55" y="107.43" text-anchor="end" transform="rotate(-90, 167.55, 107.43)" gadfly:scale="1.0" visibility="visible">news</text>
+    <text x="170.22" y="107.43" text-anchor="end" transform="rotate(-90, 170.22, 107.43)" gadfly:scale="1.0" visibility="visible">worldnews</text>
+    <text x="172.88" y="107.43" text-anchor="end" transform="rotate(-90, 172.88, 107.43)" gadfly:scale="1.0" visibility="visible">movies</text>
+    <text x="175.55" y="107.43" text-anchor="end" transform="rotate(-90, 175.55, 107.43)" gadfly:scale="1.0" visibility="visible">mildlyinteresting</text>
+    <text x="178.21" y="107.43" text-anchor="end" transform="rotate(-90, 178.21, 107.43)" gadfly:scale="1.0" visibility="visible">videos</text>
+    <text x="180.88" y="107.43" text-anchor="end" transform="rotate(-90, 180.88, 107.43)" gadfly:scale="1.0" visibility="visible">gaming</text>
+    <text x="183.54" y="107.43" text-anchor="end" transform="rotate(-90, 183.54, 107.43)" gadfly:scale="1.0" visibility="visible">gifs</text>
+    <text x="186.21" y="107.43" text-anchor="end" transform="rotate(-90, 186.21, 107.43)" gadfly:scale="1.0" visibility="visible">todayilearned</text>
+    <text x="188.87" y="107.43" text-anchor="end" transform="rotate(-90, 188.87, 107.43)" gadfly:scale="1.0" visibility="visible">aww</text>
+    <text x="191.54" y="107.43" text-anchor="end" transform="rotate(-90, 191.54, 107.43)" gadfly:scale="1.0" visibility="visible">AdviceAnimals</text>
+    <text x="194.2" y="107.43" text-anchor="end" transform="rotate(-90, 194.2, 107.43)" gadfly:scale="1.0" visibility="visible">pics</text>
+    <text x="196.87" y="107.43" text-anchor="end" transform="rotate(-90, 196.87, 107.43)" gadfly:scale="1.0" visibility="visible">funny</text>
   </g>
-  <g clip-path="url(#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-5)" id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-4">
-    <g pointer-events="visible" opacity="1" fill="none" stroke="none" class="guide background" id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-6">
+  <g clip-path="url(#fig-69762bf96f5b4199a77da663707c6612-element-5)" id="fig-69762bf96f5b4199a77da663707c6612-element-4">
+    <g pointer-events="visible" opacity="1" fill="none" stroke="none" class="guide background" id="fig-69762bf96f5b4199a77da663707c6612-element-6">
       <rect x="19.63" y="5" width="178.57" height="101.43"/>
     </g>
-    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-7">
-      <path fill="none" d="M19.63,221.36 L 198.2 221.36" visibility="hidden" gadfly:scale="1.0"/>
-      <path fill="none" d="M19.63,201.87 L 198.2 201.87" visibility="hidden" gadfly:scale="1.0"/>
-      <path fill="none" d="M19.63,182.38 L 198.2 182.38" visibility="hidden" gadfly:scale="1.0"/>
-      <path fill="none" d="M19.63,162.9 L 198.2 162.9" visibility="hidden" gadfly:scale="1.0"/>
-      <path fill="none" d="M19.63,143.41 L 198.2 143.41" visibility="hidden" gadfly:scale="1.0"/>
-      <path fill="none" d="M19.63,123.92 L 198.2 123.92" visibility="hidden" gadfly:scale="1.0"/>
-      <path fill="none" d="M19.63,104.43 L 198.2 104.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M19.63,84.95 L 198.2 84.95" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M19.63,65.46 L 198.2 65.46" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M19.63,45.97 L 198.2 45.97" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M19.63,26.49 L 198.2 26.49" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M19.63,7 L 198.2 7" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M19.63,-12.49 L 198.2 -12.49" visibility="hidden" gadfly:scale="1.0"/>
-      <path fill="none" d="M19.63,-31.97 L 198.2 -31.97" visibility="hidden" gadfly:scale="1.0"/>
-      <path fill="none" d="M19.63,-51.46 L 198.2 -51.46" visibility="hidden" gadfly:scale="1.0"/>
-      <path fill="none" d="M19.63,-70.95 L 198.2 -70.95" visibility="hidden" gadfly:scale="1.0"/>
-      <path fill="none" d="M19.63,-90.43 L 198.2 -90.43" visibility="hidden" gadfly:scale="1.0"/>
-      <path fill="none" d="M19.63,-109.92 L 198.2 -109.92" visibility="hidden" gadfly:scale="1.0"/>
-      <path fill="none" d="M19.63,201.87 L 198.2 201.87" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,197.97 L 198.2 197.97" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,194.08 L 198.2 194.08" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,190.18 L 198.2 190.18" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,186.28 L 198.2 186.28" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,182.38 L 198.2 182.38" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,178.49 L 198.2 178.49" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,174.59 L 198.2 174.59" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,170.69 L 198.2 170.69" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,166.79 L 198.2 166.79" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,162.9 L 198.2 162.9" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,159 L 198.2 159" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,155.1 L 198.2 155.1" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,151.2 L 198.2 151.2" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,147.31 L 198.2 147.31" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,143.41 L 198.2 143.41" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,139.51 L 198.2 139.51" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,135.61 L 198.2 135.61" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,131.72 L 198.2 131.72" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,127.82 L 198.2 127.82" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,123.92 L 198.2 123.92" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,120.02 L 198.2 120.02" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,116.13 L 198.2 116.13" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,112.23 L 198.2 112.23" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,108.33 L 198.2 108.33" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,104.43 L 198.2 104.43" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,100.54 L 198.2 100.54" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,96.64 L 198.2 96.64" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,92.74 L 198.2 92.74" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,88.85 L 198.2 88.85" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,84.95 L 198.2 84.95" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,81.05 L 198.2 81.05" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,77.15 L 198.2 77.15" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,73.26 L 198.2 73.26" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,69.36 L 198.2 69.36" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,65.46 L 198.2 65.46" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,61.56 L 198.2 61.56" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,57.67 L 198.2 57.67" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,53.77 L 198.2 53.77" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,49.87 L 198.2 49.87" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,45.97 L 198.2 45.97" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,42.08 L 198.2 42.08" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,38.18 L 198.2 38.18" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,34.28 L 198.2 34.28" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,30.38 L 198.2 30.38" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,26.49 L 198.2 26.49" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,22.59 L 198.2 22.59" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,18.69 L 198.2 18.69" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,14.79 L 198.2 14.79" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,10.9 L 198.2 10.9" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,7 L 198.2 7" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,3.1 L 198.2 3.1" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-0.79 L 198.2 -0.79" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-4.69 L 198.2 -4.69" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-8.59 L 198.2 -8.59" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-12.49 L 198.2 -12.49" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-16.38 L 198.2 -16.38" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-20.28 L 198.2 -20.28" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-24.18 L 198.2 -24.18" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-28.08 L 198.2 -28.08" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-31.97 L 198.2 -31.97" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-35.87 L 198.2 -35.87" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-39.77 L 198.2 -39.77" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-43.67 L 198.2 -43.67" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-47.56 L 198.2 -47.56" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-51.46 L 198.2 -51.46" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-55.36 L 198.2 -55.36" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-59.26 L 198.2 -59.26" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-63.15 L 198.2 -63.15" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-67.05 L 198.2 -67.05" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-70.95 L 198.2 -70.95" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-74.85 L 198.2 -74.85" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-78.74 L 198.2 -78.74" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-82.64 L 198.2 -82.64" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-86.54 L 198.2 -86.54" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,-90.43 L 198.2 -90.43" visibility="hidden" gadfly:scale="10.0"/>
-      <path fill="none" d="M19.63,201.87 L 198.2 201.87" visibility="hidden" gadfly:scale="0.5"/>
-      <path fill="none" d="M19.63,104.43 L 198.2 104.43" visibility="hidden" gadfly:scale="0.5"/>
-      <path fill="none" d="M19.63,7 L 198.2 7" visibility="hidden" gadfly:scale="0.5"/>
-      <path fill="none" d="M19.63,-90.43 L 198.2 -90.43" visibility="hidden" gadfly:scale="0.5"/>
-      <path fill="none" d="M19.63,205.77 L 198.2 205.77" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,197.97 L 198.2 197.97" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,190.18 L 198.2 190.18" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,182.38 L 198.2 182.38" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,174.59 L 198.2 174.59" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,166.79 L 198.2 166.79" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,159 L 198.2 159" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,151.2 L 198.2 151.2" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,143.41 L 198.2 143.41" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,135.61 L 198.2 135.61" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,127.82 L 198.2 127.82" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,120.02 L 198.2 120.02" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,112.23 L 198.2 112.23" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,104.43 L 198.2 104.43" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,96.64 L 198.2 96.64" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,88.85 L 198.2 88.85" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,81.05 L 198.2 81.05" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,73.26 L 198.2 73.26" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,65.46 L 198.2 65.46" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,57.67 L 198.2 57.67" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,49.87 L 198.2 49.87" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,42.08 L 198.2 42.08" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,34.28 L 198.2 34.28" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,26.49 L 198.2 26.49" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,18.69 L 198.2 18.69" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,10.9 L 198.2 10.9" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,3.1 L 198.2 3.1" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,-4.69 L 198.2 -4.69" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,-12.49 L 198.2 -12.49" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,-20.28 L 198.2 -20.28" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,-28.08 L 198.2 -28.08" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,-35.87 L 198.2 -35.87" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,-43.67 L 198.2 -43.67" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,-51.46 L 198.2 -51.46" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,-59.26 L 198.2 -59.26" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,-67.05 L 198.2 -67.05" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,-74.85 L 198.2 -74.85" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,-82.64 L 198.2 -82.64" visibility="hidden" gadfly:scale="5.0"/>
-      <path fill="none" d="M19.63,-90.43 L 198.2 -90.43" visibility="hidden" gadfly:scale="5.0"/>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="fig-69762bf96f5b4199a77da663707c6612-element-7">
+      <path fill="none" d="M19.63,221.36 L 198.2 221.36" gadfly:scale="1.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,201.87 L 198.2 201.87" gadfly:scale="1.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,182.38 L 198.2 182.38" gadfly:scale="1.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,162.9 L 198.2 162.9" gadfly:scale="1.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,143.41 L 198.2 143.41" gadfly:scale="1.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,123.92 L 198.2 123.92" gadfly:scale="1.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,104.43 L 198.2 104.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M19.63,84.95 L 198.2 84.95" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M19.63,65.46 L 198.2 65.46" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M19.63,45.97 L 198.2 45.97" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M19.63,26.49 L 198.2 26.49" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M19.63,7 L 198.2 7" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M19.63,-12.49 L 198.2 -12.49" gadfly:scale="1.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-31.97 L 198.2 -31.97" gadfly:scale="1.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-51.46 L 198.2 -51.46" gadfly:scale="1.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-70.95 L 198.2 -70.95" gadfly:scale="1.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-90.43 L 198.2 -90.43" gadfly:scale="1.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-109.92 L 198.2 -109.92" gadfly:scale="1.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,201.87 L 198.2 201.87" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,197.97 L 198.2 197.97" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,194.08 L 198.2 194.08" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,190.18 L 198.2 190.18" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,186.28 L 198.2 186.28" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,182.38 L 198.2 182.38" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,178.49 L 198.2 178.49" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,174.59 L 198.2 174.59" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,170.69 L 198.2 170.69" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,166.79 L 198.2 166.79" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,162.9 L 198.2 162.9" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,159 L 198.2 159" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,155.1 L 198.2 155.1" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,151.2 L 198.2 151.2" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,147.31 L 198.2 147.31" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,143.41 L 198.2 143.41" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,139.51 L 198.2 139.51" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,135.61 L 198.2 135.61" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,131.72 L 198.2 131.72" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,127.82 L 198.2 127.82" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,123.92 L 198.2 123.92" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,120.02 L 198.2 120.02" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,116.13 L 198.2 116.13" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,112.23 L 198.2 112.23" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,108.33 L 198.2 108.33" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,104.43 L 198.2 104.43" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,100.54 L 198.2 100.54" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,96.64 L 198.2 96.64" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,92.74 L 198.2 92.74" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,88.85 L 198.2 88.85" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,84.95 L 198.2 84.95" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,81.05 L 198.2 81.05" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,77.15 L 198.2 77.15" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,73.26 L 198.2 73.26" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,69.36 L 198.2 69.36" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,65.46 L 198.2 65.46" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,61.56 L 198.2 61.56" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,57.67 L 198.2 57.67" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,53.77 L 198.2 53.77" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,49.87 L 198.2 49.87" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,45.97 L 198.2 45.97" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,42.08 L 198.2 42.08" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,38.18 L 198.2 38.18" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,34.28 L 198.2 34.28" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,30.38 L 198.2 30.38" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,26.49 L 198.2 26.49" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,22.59 L 198.2 22.59" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,18.69 L 198.2 18.69" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,14.79 L 198.2 14.79" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,10.9 L 198.2 10.9" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,7 L 198.2 7" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,3.1 L 198.2 3.1" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-0.79 L 198.2 -0.79" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-4.69 L 198.2 -4.69" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-8.59 L 198.2 -8.59" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-12.49 L 198.2 -12.49" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-16.38 L 198.2 -16.38" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-20.28 L 198.2 -20.28" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-24.18 L 198.2 -24.18" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-28.08 L 198.2 -28.08" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-31.97 L 198.2 -31.97" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-35.87 L 198.2 -35.87" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-39.77 L 198.2 -39.77" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-43.67 L 198.2 -43.67" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-47.56 L 198.2 -47.56" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-51.46 L 198.2 -51.46" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-55.36 L 198.2 -55.36" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-59.26 L 198.2 -59.26" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-63.15 L 198.2 -63.15" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-67.05 L 198.2 -67.05" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-70.95 L 198.2 -70.95" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-74.85 L 198.2 -74.85" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-78.74 L 198.2 -78.74" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-82.64 L 198.2 -82.64" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-86.54 L 198.2 -86.54" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-90.43 L 198.2 -90.43" gadfly:scale="10.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,201.87 L 198.2 201.87" gadfly:scale="0.5" visibility="hidden"/>
+      <path fill="none" d="M19.63,104.43 L 198.2 104.43" gadfly:scale="0.5" visibility="hidden"/>
+      <path fill="none" d="M19.63,7 L 198.2 7" gadfly:scale="0.5" visibility="hidden"/>
+      <path fill="none" d="M19.63,-90.43 L 198.2 -90.43" gadfly:scale="0.5" visibility="hidden"/>
+      <path fill="none" d="M19.63,205.77 L 198.2 205.77" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,197.97 L 198.2 197.97" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,190.18 L 198.2 190.18" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,182.38 L 198.2 182.38" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,174.59 L 198.2 174.59" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,166.79 L 198.2 166.79" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,159 L 198.2 159" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,151.2 L 198.2 151.2" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,143.41 L 198.2 143.41" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,135.61 L 198.2 135.61" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,127.82 L 198.2 127.82" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,120.02 L 198.2 120.02" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,112.23 L 198.2 112.23" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,104.43 L 198.2 104.43" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,96.64 L 198.2 96.64" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,88.85 L 198.2 88.85" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,81.05 L 198.2 81.05" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,73.26 L 198.2 73.26" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,65.46 L 198.2 65.46" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,57.67 L 198.2 57.67" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,49.87 L 198.2 49.87" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,42.08 L 198.2 42.08" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,34.28 L 198.2 34.28" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,26.49 L 198.2 26.49" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,18.69 L 198.2 18.69" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,10.9 L 198.2 10.9" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,3.1 L 198.2 3.1" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-4.69 L 198.2 -4.69" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-12.49 L 198.2 -12.49" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-20.28 L 198.2 -20.28" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-28.08 L 198.2 -28.08" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-35.87 L 198.2 -35.87" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-43.67 L 198.2 -43.67" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-51.46 L 198.2 -51.46" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-59.26 L 198.2 -59.26" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-67.05 L 198.2 -67.05" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-74.85 L 198.2 -74.85" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-82.64 L 198.2 -82.64" gadfly:scale="5.0" visibility="hidden"/>
+      <path fill="none" d="M19.63,-90.43 L 198.2 -90.43" gadfly:scale="5.0" visibility="hidden"/>
     </g>
-    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-8">
-      <path fill="none" d="M22.3,5 L 22.3 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M24.96,5 L 24.96 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M27.63,5 L 27.63 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M30.29,5 L 30.29 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M32.96,5 L 32.96 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M35.62,5 L 35.62 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M38.29,5 L 38.29 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M40.95,5 L 40.95 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M43.62,5 L 43.62 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M46.28,5 L 46.28 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M48.95,5 L 48.95 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M51.61,5 L 51.61 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M54.28,5 L 54.28 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M56.94,5 L 56.94 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M59.61,5 L 59.61 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M62.27,5 L 62.27 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M64.94,5 L 64.94 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M67.61,5 L 67.61 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M70.27,5 L 70.27 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M72.94,5 L 72.94 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M75.6,5 L 75.6 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M78.27,5 L 78.27 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M80.93,5 L 80.93 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M83.6,5 L 83.6 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M86.26,5 L 86.26 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M88.93,5 L 88.93 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M91.59,5 L 91.59 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M94.26,5 L 94.26 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M96.92,5 L 96.92 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M99.59,5 L 99.59 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M102.25,5 L 102.25 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M104.92,5 L 104.92 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M107.58,5 L 107.58 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M110.25,5 L 110.25 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M112.91,5 L 112.91 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M115.58,5 L 115.58 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M118.24,5 L 118.24 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M120.91,5 L 120.91 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M123.57,5 L 123.57 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M126.24,5 L 126.24 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M128.9,5 L 128.9 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M131.57,5 L 131.57 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M134.24,5 L 134.24 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M136.9,5 L 136.9 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M139.57,5 L 139.57 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M142.23,5 L 142.23 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M144.9,5 L 144.9 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M147.56,5 L 147.56 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M150.23,5 L 150.23 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M152.89,5 L 152.89 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M155.56,5 L 155.56 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M158.22,5 L 158.22 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M160.89,5 L 160.89 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M163.55,5 L 163.55 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M166.22,5 L 166.22 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M168.88,5 L 168.88 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M171.55,5 L 171.55 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M174.21,5 L 174.21 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M176.88,5 L 176.88 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M179.54,5 L 179.54 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M182.21,5 L 182.21 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M184.87,5 L 184.87 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M187.54,5 L 187.54 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M190.2,5 L 190.2 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M192.87,5 L 192.87 106.43" visibility="visible" gadfly:scale="1.0"/>
-      <path fill="none" d="M195.53,5 L 195.53 106.43" visibility="visible" gadfly:scale="1.0"/>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="fig-69762bf96f5b4199a77da663707c6612-element-8">
+      <path fill="none" d="M22.3,5 L 22.3 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M24.96,5 L 24.96 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M27.63,5 L 27.63 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M30.29,5 L 30.29 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M32.96,5 L 32.96 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M35.62,5 L 35.62 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M38.29,5 L 38.29 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M40.95,5 L 40.95 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M43.62,5 L 43.62 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M46.28,5 L 46.28 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M48.95,5 L 48.95 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M51.61,5 L 51.61 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M54.28,5 L 54.28 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M56.94,5 L 56.94 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M59.61,5 L 59.61 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M62.27,5 L 62.27 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M64.94,5 L 64.94 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M67.61,5 L 67.61 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M70.27,5 L 70.27 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M72.94,5 L 72.94 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M75.6,5 L 75.6 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M78.27,5 L 78.27 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M80.93,5 L 80.93 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M83.6,5 L 83.6 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M86.26,5 L 86.26 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M88.93,5 L 88.93 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M91.59,5 L 91.59 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M94.26,5 L 94.26 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M96.92,5 L 96.92 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M99.59,5 L 99.59 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M102.25,5 L 102.25 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M104.92,5 L 104.92 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M107.58,5 L 107.58 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M110.25,5 L 110.25 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M112.91,5 L 112.91 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M115.58,5 L 115.58 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M118.24,5 L 118.24 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M120.91,5 L 120.91 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M123.57,5 L 123.57 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M126.24,5 L 126.24 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M128.9,5 L 128.9 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M131.57,5 L 131.57 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M134.24,5 L 134.24 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M136.9,5 L 136.9 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M139.57,5 L 139.57 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M142.23,5 L 142.23 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M144.9,5 L 144.9 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M147.56,5 L 147.56 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M150.23,5 L 150.23 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M152.89,5 L 152.89 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M155.56,5 L 155.56 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M158.22,5 L 158.22 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M160.89,5 L 160.89 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M163.55,5 L 163.55 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M166.22,5 L 166.22 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M168.88,5 L 168.88 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M171.55,5 L 171.55 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M174.21,5 L 174.21 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M176.88,5 L 176.88 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M179.54,5 L 179.54 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M182.21,5 L 182.21 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M184.87,5 L 184.87 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M187.54,5 L 187.54 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M190.2,5 L 190.2 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M192.87,5 L 192.87 106.43" gadfly:scale="1.0" visibility="visible"/>
+      <path fill="none" d="M195.53,5 L 195.53 106.43" gadfly:scale="1.0" visibility="visible"/>
     </g>
-    <g class="plotpanel" id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-9">
-      <g stroke="none" fill="#00BFFF" shape-rendering="crispEdges" id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-10">
-        <g class="geometry" id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-11">
+    <g class="plotpanel" id="fig-69762bf96f5b4199a77da663707c6612-element-9">
+      <g stroke="none" fill="#00BFFF" shape-rendering="crispEdges" id="fig-69762bf96f5b4199a77da663707c6612-element-10">
+        <g class="geometry" id="fig-69762bf96f5b4199a77da663707c6612-element-11">
           <rect x="19.63" y="104.05" width="2.67" height="0.39"/>
           <rect x="22.3" y="104.05" width="2.67" height="0.39"/>
           <rect x="24.96" y="104.05" width="2.67" height="0.39"/>
@@ -356,183 +356,183 @@
           <rect x="168.88" y="98.2" width="2.67" height="6.24"/>
           <rect x="171.55" y="97.81" width="2.67" height="6.63"/>
           <rect x="174.21" y="97.42" width="2.67" height="7.02"/>
-          <rect x="176.88" y="91.18" width="2.67" height="13.25"/>
-          <rect x="179.54" y="88.85" width="2.67" height="15.59"/>
+          <rect x="176.88" y="90.79" width="2.67" height="13.64"/>
+          <rect x="179.54" y="88.46" width="2.67" height="15.98"/>
           <rect x="182.21" y="83" width="2.67" height="21.44"/>
           <rect x="184.87" y="82.22" width="2.67" height="22.22"/>
           <rect x="187.54" y="81.83" width="2.67" height="22.6"/>
           <rect x="190.2" y="72.09" width="2.67" height="32.35"/>
-          <rect x="192.87" y="40.52" width="2.67" height="63.92"/>
+          <rect x="192.87" y="40.13" width="2.67" height="64.31"/>
           <rect x="195.53" y="11.68" width="2.67" height="92.76"/>
         </g>
       </g>
     </g>
-    <g opacity="0" class="guide zoomslider" stroke="none" id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-12">
-      <g fill="#EAEAEA" stroke-width="0.3" stroke-opacity="0" stroke="#6A6A6A" id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-13">
+    <g opacity="0" class="guide zoomslider" stroke="none" id="fig-69762bf96f5b4199a77da663707c6612-element-12">
+      <g fill="#EAEAEA" stroke-width="0.3" stroke-opacity="0" stroke="#6A6A6A" id="fig-69762bf96f5b4199a77da663707c6612-element-13">
         <rect x="191.2" y="8" width="4" height="4"/>
-        <g class="button_logo" fill="#6A6A6A" id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-14">
+        <g class="button_logo" fill="#6A6A6A" id="fig-69762bf96f5b4199a77da663707c6612-element-14">
           <path d="M192,9.6 L 192.8 9.6 192.8 8.8 193.6 8.8 193.6 9.6 194.4 9.6 194.4 10.4 193.6 10.4 193.6 11.2 192.8 11.2 192.8 10.4 192 10.4 z"/>
         </g>
       </g>
-      <g fill="#EAEAEA" id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-15">
+      <g fill="#EAEAEA" id="fig-69762bf96f5b4199a77da663707c6612-element-15">
         <rect x="171.7" y="8" width="19" height="4"/>
       </g>
-      <g class="zoomslider_thumb" fill="#6A6A6A" id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-16">
+      <g class="zoomslider_thumb" fill="#6A6A6A" id="fig-69762bf96f5b4199a77da663707c6612-element-16">
         <rect x="180.2" y="8" width="2" height="4"/>
       </g>
-      <g fill="#EAEAEA" stroke-width="0.3" stroke-opacity="0" stroke="#6A6A6A" id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-17">
+      <g fill="#EAEAEA" stroke-width="0.3" stroke-opacity="0" stroke="#6A6A6A" id="fig-69762bf96f5b4199a77da663707c6612-element-17">
         <rect x="167.2" y="8" width="4" height="4"/>
-        <g class="button_logo" fill="#6A6A6A" id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-18">
+        <g class="button_logo" fill="#6A6A6A" id="fig-69762bf96f5b4199a77da663707c6612-element-18">
           <path d="M168,9.6 L 170.4 9.6 170.4 10.4 168 10.4 z"/>
         </g>
       </g>
     </g>
   </g>
-  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-19">
-    <text x="18.63" y="221.36" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="1.0">-300</text>
-    <text x="18.63" y="201.87" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="1.0">-250</text>
-    <text x="18.63" y="182.38" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="1.0">-200</text>
-    <text x="18.63" y="162.9" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="1.0">-150</text>
-    <text x="18.63" y="143.41" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="1.0">-100</text>
-    <text x="18.63" y="123.92" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="1.0">-50</text>
-    <text x="18.63" y="104.43" text-anchor="end" dy="0.35em" visibility="visible" gadfly:scale="1.0">0</text>
-    <text x="18.63" y="84.95" text-anchor="end" dy="0.35em" visibility="visible" gadfly:scale="1.0">50</text>
-    <text x="18.63" y="65.46" text-anchor="end" dy="0.35em" visibility="visible" gadfly:scale="1.0">100</text>
-    <text x="18.63" y="45.97" text-anchor="end" dy="0.35em" visibility="visible" gadfly:scale="1.0">150</text>
-    <text x="18.63" y="26.49" text-anchor="end" dy="0.35em" visibility="visible" gadfly:scale="1.0">200</text>
-    <text x="18.63" y="7" text-anchor="end" dy="0.35em" visibility="visible" gadfly:scale="1.0">250</text>
-    <text x="18.63" y="-12.49" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="1.0">300</text>
-    <text x="18.63" y="-31.97" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="1.0">350</text>
-    <text x="18.63" y="-51.46" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="1.0">400</text>
-    <text x="18.63" y="-70.95" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="1.0">450</text>
-    <text x="18.63" y="-90.43" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="1.0">500</text>
-    <text x="18.63" y="-109.92" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="1.0">550</text>
-    <text x="18.63" y="201.87" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-250</text>
-    <text x="18.63" y="197.97" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-240</text>
-    <text x="18.63" y="194.08" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-230</text>
-    <text x="18.63" y="190.18" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-220</text>
-    <text x="18.63" y="186.28" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-210</text>
-    <text x="18.63" y="182.38" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-200</text>
-    <text x="18.63" y="178.49" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-190</text>
-    <text x="18.63" y="174.59" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-180</text>
-    <text x="18.63" y="170.69" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-170</text>
-    <text x="18.63" y="166.79" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-160</text>
-    <text x="18.63" y="162.9" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-150</text>
-    <text x="18.63" y="159" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-140</text>
-    <text x="18.63" y="155.1" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-130</text>
-    <text x="18.63" y="151.2" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-120</text>
-    <text x="18.63" y="147.31" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-110</text>
-    <text x="18.63" y="143.41" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-100</text>
-    <text x="18.63" y="139.51" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-90</text>
-    <text x="18.63" y="135.61" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-80</text>
-    <text x="18.63" y="131.72" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-70</text>
-    <text x="18.63" y="127.82" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-60</text>
-    <text x="18.63" y="123.92" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-50</text>
-    <text x="18.63" y="120.02" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-40</text>
-    <text x="18.63" y="116.13" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-30</text>
-    <text x="18.63" y="112.23" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-20</text>
-    <text x="18.63" y="108.33" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">-10</text>
-    <text x="18.63" y="104.43" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">0</text>
-    <text x="18.63" y="100.54" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">10</text>
-    <text x="18.63" y="96.64" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">20</text>
-    <text x="18.63" y="92.74" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">30</text>
-    <text x="18.63" y="88.85" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">40</text>
-    <text x="18.63" y="84.95" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">50</text>
-    <text x="18.63" y="81.05" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">60</text>
-    <text x="18.63" y="77.15" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">70</text>
-    <text x="18.63" y="73.26" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">80</text>
-    <text x="18.63" y="69.36" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">90</text>
-    <text x="18.63" y="65.46" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">100</text>
-    <text x="18.63" y="61.56" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">110</text>
-    <text x="18.63" y="57.67" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">120</text>
-    <text x="18.63" y="53.77" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">130</text>
-    <text x="18.63" y="49.87" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">140</text>
-    <text x="18.63" y="45.97" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">150</text>
-    <text x="18.63" y="42.08" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">160</text>
-    <text x="18.63" y="38.18" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">170</text>
-    <text x="18.63" y="34.28" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">180</text>
-    <text x="18.63" y="30.38" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">190</text>
-    <text x="18.63" y="26.49" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">200</text>
-    <text x="18.63" y="22.59" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">210</text>
-    <text x="18.63" y="18.69" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">220</text>
-    <text x="18.63" y="14.79" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">230</text>
-    <text x="18.63" y="10.9" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">240</text>
-    <text x="18.63" y="7" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">250</text>
-    <text x="18.63" y="3.1" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">260</text>
-    <text x="18.63" y="-0.79" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">270</text>
-    <text x="18.63" y="-4.69" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">280</text>
-    <text x="18.63" y="-8.59" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">290</text>
-    <text x="18.63" y="-12.49" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">300</text>
-    <text x="18.63" y="-16.38" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">310</text>
-    <text x="18.63" y="-20.28" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">320</text>
-    <text x="18.63" y="-24.18" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">330</text>
-    <text x="18.63" y="-28.08" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">340</text>
-    <text x="18.63" y="-31.97" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">350</text>
-    <text x="18.63" y="-35.87" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">360</text>
-    <text x="18.63" y="-39.77" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">370</text>
-    <text x="18.63" y="-43.67" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">380</text>
-    <text x="18.63" y="-47.56" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">390</text>
-    <text x="18.63" y="-51.46" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">400</text>
-    <text x="18.63" y="-55.36" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">410</text>
-    <text x="18.63" y="-59.26" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">420</text>
-    <text x="18.63" y="-63.15" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">430</text>
-    <text x="18.63" y="-67.05" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">440</text>
-    <text x="18.63" y="-70.95" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">450</text>
-    <text x="18.63" y="-74.85" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">460</text>
-    <text x="18.63" y="-78.74" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">470</text>
-    <text x="18.63" y="-82.64" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">480</text>
-    <text x="18.63" y="-86.54" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">490</text>
-    <text x="18.63" y="-90.43" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="10.0">500</text>
-    <text x="18.63" y="201.87" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="0.5">-250</text>
-    <text x="18.63" y="104.43" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="0.5">0</text>
-    <text x="18.63" y="7" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="0.5">250</text>
-    <text x="18.63" y="-90.43" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="0.5">500</text>
-    <text x="18.63" y="205.77" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">-260</text>
-    <text x="18.63" y="197.97" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">-240</text>
-    <text x="18.63" y="190.18" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">-220</text>
-    <text x="18.63" y="182.38" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">-200</text>
-    <text x="18.63" y="174.59" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">-180</text>
-    <text x="18.63" y="166.79" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">-160</text>
-    <text x="18.63" y="159" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">-140</text>
-    <text x="18.63" y="151.2" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">-120</text>
-    <text x="18.63" y="143.41" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">-100</text>
-    <text x="18.63" y="135.61" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">-80</text>
-    <text x="18.63" y="127.82" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">-60</text>
-    <text x="18.63" y="120.02" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">-40</text>
-    <text x="18.63" y="112.23" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">-20</text>
-    <text x="18.63" y="104.43" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">0</text>
-    <text x="18.63" y="96.64" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">20</text>
-    <text x="18.63" y="88.85" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">40</text>
-    <text x="18.63" y="81.05" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">60</text>
-    <text x="18.63" y="73.26" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">80</text>
-    <text x="18.63" y="65.46" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">100</text>
-    <text x="18.63" y="57.67" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">120</text>
-    <text x="18.63" y="49.87" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">140</text>
-    <text x="18.63" y="42.08" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">160</text>
-    <text x="18.63" y="34.28" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">180</text>
-    <text x="18.63" y="26.49" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">200</text>
-    <text x="18.63" y="18.69" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">220</text>
-    <text x="18.63" y="10.9" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">240</text>
-    <text x="18.63" y="3.1" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">260</text>
-    <text x="18.63" y="-4.69" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">280</text>
-    <text x="18.63" y="-12.49" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">300</text>
-    <text x="18.63" y="-20.28" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">320</text>
-    <text x="18.63" y="-28.08" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">340</text>
-    <text x="18.63" y="-35.87" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">360</text>
-    <text x="18.63" y="-43.67" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">380</text>
-    <text x="18.63" y="-51.46" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">400</text>
-    <text x="18.63" y="-59.26" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">420</text>
-    <text x="18.63" y="-67.05" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">440</text>
-    <text x="18.63" y="-74.85" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">460</text>
-    <text x="18.63" y="-82.64" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">480</text>
-    <text x="18.63" y="-90.43" text-anchor="end" dy="0.35em" visibility="hidden" gadfly:scale="5.0">500</text>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="fig-69762bf96f5b4199a77da663707c6612-element-19">
+    <text x="18.63" y="221.36" text-anchor="end" dy="0.35em" gadfly:scale="1.0" visibility="hidden">-300</text>
+    <text x="18.63" y="201.87" text-anchor="end" dy="0.35em" gadfly:scale="1.0" visibility="hidden">-250</text>
+    <text x="18.63" y="182.38" text-anchor="end" dy="0.35em" gadfly:scale="1.0" visibility="hidden">-200</text>
+    <text x="18.63" y="162.9" text-anchor="end" dy="0.35em" gadfly:scale="1.0" visibility="hidden">-150</text>
+    <text x="18.63" y="143.41" text-anchor="end" dy="0.35em" gadfly:scale="1.0" visibility="hidden">-100</text>
+    <text x="18.63" y="123.92" text-anchor="end" dy="0.35em" gadfly:scale="1.0" visibility="hidden">-50</text>
+    <text x="18.63" y="104.43" text-anchor="end" dy="0.35em" gadfly:scale="1.0" visibility="visible">0</text>
+    <text x="18.63" y="84.95" text-anchor="end" dy="0.35em" gadfly:scale="1.0" visibility="visible">50</text>
+    <text x="18.63" y="65.46" text-anchor="end" dy="0.35em" gadfly:scale="1.0" visibility="visible">100</text>
+    <text x="18.63" y="45.97" text-anchor="end" dy="0.35em" gadfly:scale="1.0" visibility="visible">150</text>
+    <text x="18.63" y="26.49" text-anchor="end" dy="0.35em" gadfly:scale="1.0" visibility="visible">200</text>
+    <text x="18.63" y="7" text-anchor="end" dy="0.35em" gadfly:scale="1.0" visibility="visible">250</text>
+    <text x="18.63" y="-12.49" text-anchor="end" dy="0.35em" gadfly:scale="1.0" visibility="hidden">300</text>
+    <text x="18.63" y="-31.97" text-anchor="end" dy="0.35em" gadfly:scale="1.0" visibility="hidden">350</text>
+    <text x="18.63" y="-51.46" text-anchor="end" dy="0.35em" gadfly:scale="1.0" visibility="hidden">400</text>
+    <text x="18.63" y="-70.95" text-anchor="end" dy="0.35em" gadfly:scale="1.0" visibility="hidden">450</text>
+    <text x="18.63" y="-90.43" text-anchor="end" dy="0.35em" gadfly:scale="1.0" visibility="hidden">500</text>
+    <text x="18.63" y="-109.92" text-anchor="end" dy="0.35em" gadfly:scale="1.0" visibility="hidden">550</text>
+    <text x="18.63" y="201.87" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-250</text>
+    <text x="18.63" y="197.97" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-240</text>
+    <text x="18.63" y="194.08" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-230</text>
+    <text x="18.63" y="190.18" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-220</text>
+    <text x="18.63" y="186.28" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-210</text>
+    <text x="18.63" y="182.38" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-200</text>
+    <text x="18.63" y="178.49" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-190</text>
+    <text x="18.63" y="174.59" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-180</text>
+    <text x="18.63" y="170.69" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-170</text>
+    <text x="18.63" y="166.79" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-160</text>
+    <text x="18.63" y="162.9" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-150</text>
+    <text x="18.63" y="159" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-140</text>
+    <text x="18.63" y="155.1" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-130</text>
+    <text x="18.63" y="151.2" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-120</text>
+    <text x="18.63" y="147.31" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-110</text>
+    <text x="18.63" y="143.41" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-100</text>
+    <text x="18.63" y="139.51" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-90</text>
+    <text x="18.63" y="135.61" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-80</text>
+    <text x="18.63" y="131.72" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-70</text>
+    <text x="18.63" y="127.82" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-60</text>
+    <text x="18.63" y="123.92" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-50</text>
+    <text x="18.63" y="120.02" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-40</text>
+    <text x="18.63" y="116.13" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-30</text>
+    <text x="18.63" y="112.23" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-20</text>
+    <text x="18.63" y="108.33" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">-10</text>
+    <text x="18.63" y="104.43" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">0</text>
+    <text x="18.63" y="100.54" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">10</text>
+    <text x="18.63" y="96.64" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">20</text>
+    <text x="18.63" y="92.74" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">30</text>
+    <text x="18.63" y="88.85" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">40</text>
+    <text x="18.63" y="84.95" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">50</text>
+    <text x="18.63" y="81.05" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">60</text>
+    <text x="18.63" y="77.15" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">70</text>
+    <text x="18.63" y="73.26" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">80</text>
+    <text x="18.63" y="69.36" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">90</text>
+    <text x="18.63" y="65.46" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">100</text>
+    <text x="18.63" y="61.56" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">110</text>
+    <text x="18.63" y="57.67" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">120</text>
+    <text x="18.63" y="53.77" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">130</text>
+    <text x="18.63" y="49.87" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">140</text>
+    <text x="18.63" y="45.97" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">150</text>
+    <text x="18.63" y="42.08" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">160</text>
+    <text x="18.63" y="38.18" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">170</text>
+    <text x="18.63" y="34.28" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">180</text>
+    <text x="18.63" y="30.38" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">190</text>
+    <text x="18.63" y="26.49" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">200</text>
+    <text x="18.63" y="22.59" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">210</text>
+    <text x="18.63" y="18.69" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">220</text>
+    <text x="18.63" y="14.79" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">230</text>
+    <text x="18.63" y="10.9" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">240</text>
+    <text x="18.63" y="7" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">250</text>
+    <text x="18.63" y="3.1" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">260</text>
+    <text x="18.63" y="-0.79" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">270</text>
+    <text x="18.63" y="-4.69" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">280</text>
+    <text x="18.63" y="-8.59" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">290</text>
+    <text x="18.63" y="-12.49" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">300</text>
+    <text x="18.63" y="-16.38" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">310</text>
+    <text x="18.63" y="-20.28" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">320</text>
+    <text x="18.63" y="-24.18" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">330</text>
+    <text x="18.63" y="-28.08" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">340</text>
+    <text x="18.63" y="-31.97" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">350</text>
+    <text x="18.63" y="-35.87" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">360</text>
+    <text x="18.63" y="-39.77" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">370</text>
+    <text x="18.63" y="-43.67" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">380</text>
+    <text x="18.63" y="-47.56" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">390</text>
+    <text x="18.63" y="-51.46" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">400</text>
+    <text x="18.63" y="-55.36" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">410</text>
+    <text x="18.63" y="-59.26" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">420</text>
+    <text x="18.63" y="-63.15" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">430</text>
+    <text x="18.63" y="-67.05" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">440</text>
+    <text x="18.63" y="-70.95" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">450</text>
+    <text x="18.63" y="-74.85" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">460</text>
+    <text x="18.63" y="-78.74" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">470</text>
+    <text x="18.63" y="-82.64" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">480</text>
+    <text x="18.63" y="-86.54" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">490</text>
+    <text x="18.63" y="-90.43" text-anchor="end" dy="0.35em" gadfly:scale="10.0" visibility="hidden">500</text>
+    <text x="18.63" y="201.87" text-anchor="end" dy="0.35em" gadfly:scale="0.5" visibility="hidden">-250</text>
+    <text x="18.63" y="104.43" text-anchor="end" dy="0.35em" gadfly:scale="0.5" visibility="hidden">0</text>
+    <text x="18.63" y="7" text-anchor="end" dy="0.35em" gadfly:scale="0.5" visibility="hidden">250</text>
+    <text x="18.63" y="-90.43" text-anchor="end" dy="0.35em" gadfly:scale="0.5" visibility="hidden">500</text>
+    <text x="18.63" y="205.77" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">-260</text>
+    <text x="18.63" y="197.97" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">-240</text>
+    <text x="18.63" y="190.18" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">-220</text>
+    <text x="18.63" y="182.38" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">-200</text>
+    <text x="18.63" y="174.59" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">-180</text>
+    <text x="18.63" y="166.79" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">-160</text>
+    <text x="18.63" y="159" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">-140</text>
+    <text x="18.63" y="151.2" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">-120</text>
+    <text x="18.63" y="143.41" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">-100</text>
+    <text x="18.63" y="135.61" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">-80</text>
+    <text x="18.63" y="127.82" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">-60</text>
+    <text x="18.63" y="120.02" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">-40</text>
+    <text x="18.63" y="112.23" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">-20</text>
+    <text x="18.63" y="104.43" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">0</text>
+    <text x="18.63" y="96.64" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">20</text>
+    <text x="18.63" y="88.85" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">40</text>
+    <text x="18.63" y="81.05" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">60</text>
+    <text x="18.63" y="73.26" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">80</text>
+    <text x="18.63" y="65.46" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">100</text>
+    <text x="18.63" y="57.67" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">120</text>
+    <text x="18.63" y="49.87" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">140</text>
+    <text x="18.63" y="42.08" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">160</text>
+    <text x="18.63" y="34.28" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">180</text>
+    <text x="18.63" y="26.49" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">200</text>
+    <text x="18.63" y="18.69" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">220</text>
+    <text x="18.63" y="10.9" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">240</text>
+    <text x="18.63" y="3.1" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">260</text>
+    <text x="18.63" y="-4.69" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">280</text>
+    <text x="18.63" y="-12.49" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">300</text>
+    <text x="18.63" y="-20.28" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">320</text>
+    <text x="18.63" y="-28.08" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">340</text>
+    <text x="18.63" y="-35.87" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">360</text>
+    <text x="18.63" y="-43.67" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">380</text>
+    <text x="18.63" y="-51.46" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">400</text>
+    <text x="18.63" y="-59.26" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">420</text>
+    <text x="18.63" y="-67.05" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">440</text>
+    <text x="18.63" y="-74.85" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">460</text>
+    <text x="18.63" y="-82.64" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">480</text>
+    <text x="18.63" y="-90.43" text-anchor="end" dy="0.35em" gadfly:scale="5.0" visibility="hidden">500</text>
   </g>
-  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="none" id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-20">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="none" id="fig-69762bf96f5b4199a77da663707c6612-element-20">
     <text x="8.81" y="53.72" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 55.72)"># of Top 5 Posts</text>
   </g>
 </g>
 <defs>
-<clipPath id="fig-7f840015dc1942a0b5a78f13c69fb3b4-element-5">
+<clipPath id="fig-69762bf96f5b4199a77da663707c6612-element-5">
   <path d="M19.63,5 L 198.2 5 198.2 106.43 19.63 106.43" />
 </clipPath
 ></defs>
@@ -1473,8 +1473,8 @@ return Gadfly;
           factory(glob.Snap, glob.Gadfly);
       }
 })(window, function (Snap, Gadfly) {
-    var fig = Snap("#fig-7f840015dc1942a0b5a78f13c69fb3b4");
-fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-4")
+    var fig = Snap("#fig-69762bf96f5b4199a77da663707c6612");
+fig.select("#fig-69762bf96f5b4199a77da663707c6612-element-4")
    .mouseenter(Gadfly.plot_mouseover)
 .mouseleave(Gadfly.plot_mouseout)
 .mousewheel(Gadfly.guide_background_scroll)
@@ -1482,63 +1482,63 @@ fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-4")
       Gadfly.guide_background_drag_onstart,
       Gadfly.guide_background_drag_onend)
 ;
-fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-7")
+fig.select("#fig-69762bf96f5b4199a77da663707c6612-element-7")
    .plotroot().data("unfocused_ygrid_color", "#D0D0E0")
 ;
-fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-7")
+fig.select("#fig-69762bf96f5b4199a77da663707c6612-element-7")
    .plotroot().data("focused_ygrid_color", "#A0A0A0")
 ;
-fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-8")
+fig.select("#fig-69762bf96f5b4199a77da663707c6612-element-8")
    .plotroot().data("unfocused_xgrid_color", "#D0D0E0")
 ;
-fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-8")
+fig.select("#fig-69762bf96f5b4199a77da663707c6612-element-8")
    .plotroot().data("focused_xgrid_color", "#A0A0A0")
 ;
-fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-13")
+fig.select("#fig-69762bf96f5b4199a77da663707c6612-element-13")
    .data("mouseover_color", "#cd5c5c")
 ;
-fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-13")
+fig.select("#fig-69762bf96f5b4199a77da663707c6612-element-13")
    .data("mouseout_color", "#6a6a6a")
 ;
-fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-13")
+fig.select("#fig-69762bf96f5b4199a77da663707c6612-element-13")
    .click(Gadfly.zoomslider_zoomin_click)
 .mouseenter(Gadfly.zoomslider_button_mouseover)
 .mouseleave(Gadfly.zoomslider_button_mouseout)
 ;
-fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-15")
+fig.select("#fig-69762bf96f5b4199a77da663707c6612-element-15")
    .data("max_pos", 182.2)
 ;
-fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-15")
+fig.select("#fig-69762bf96f5b4199a77da663707c6612-element-15")
    .data("min_pos", 165.2)
 ;
-fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-15")
+fig.select("#fig-69762bf96f5b4199a77da663707c6612-element-15")
    .click(Gadfly.zoomslider_track_click);
-fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-16")
+fig.select("#fig-69762bf96f5b4199a77da663707c6612-element-16")
    .data("max_pos", 182.2)
 ;
-fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-16")
+fig.select("#fig-69762bf96f5b4199a77da663707c6612-element-16")
    .data("min_pos", 165.2)
 ;
-fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-16")
+fig.select("#fig-69762bf96f5b4199a77da663707c6612-element-16")
    .data("mouseover_color", "#cd5c5c")
 ;
-fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-16")
+fig.select("#fig-69762bf96f5b4199a77da663707c6612-element-16")
    .data("mouseout_color", "#6a6a6a")
 ;
-fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-16")
+fig.select("#fig-69762bf96f5b4199a77da663707c6612-element-16")
    .drag(Gadfly.zoomslider_thumb_dragmove,
      Gadfly.zoomslider_thumb_dragstart,
      Gadfly.zoomslider_thumb_dragend)
 .mousedown(Gadfly.zoomslider_thumb_mousedown)
 .mouseup(Gadfly.zoomslider_thumb_mouseup)
 ;
-fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-17")
+fig.select("#fig-69762bf96f5b4199a77da663707c6612-element-17")
    .data("mouseover_color", "#cd5c5c")
 ;
-fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-17")
+fig.select("#fig-69762bf96f5b4199a77da663707c6612-element-17")
    .data("mouseout_color", "#6a6a6a")
 ;
-fig.select("#fig-7f840015dc1942a0b5a78f13c69fb3b4-element-17")
+fig.select("#fig-69762bf96f5b4199a77da663707c6612-element-17")
    .click(Gadfly.zoomslider_zoomout_click)
 .mouseenter(Gadfly.zoomslider_button_mouseover)
 .mouseleave(Gadfly.zoomslider_button_mouseout)
