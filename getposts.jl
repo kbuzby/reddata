@@ -4,13 +4,14 @@ import SQLite
 using Gadfly
 using Gumbo
 
-url = "http://www.reddit.com/r/all/.json"
-req = get(url)
-posts = JSON.parse(req.data)["data"]["children"]
+function getjson(app)
+	req = get("http://www.reddit.com/$app")
+	return JSON.parse(req.data)["data"]
+end
 
 db = SQLite.SQLiteDB("/home/kyle/dev/reddata/postdb")
 
-Top5Posts = map((post) -> post["data"], posts[1:5])
+Top5Posts = map((post) -> post["data"], getjson("r/all/.json")["children"][1:5])
 
 #determine if the top5 is a fresh top 5
 freshset = true
@@ -78,9 +79,7 @@ draw(SVGJS("/home/kyle/dev/reddata/topsubs.js.svg", 8inch, 6inch), p)
 
 scribs = ones(Int64,length(q[2]))
 for (index,sub) in enumerate(q[1])
-	url = "http://www.reddit.com/r/$sub/about.json"
-	req = get(url)
-	scribs[index] = int(JSON.parse(req.data)["data"]["subscribers"])
+	scribs[index] = int(getjson("/r/$sub/about.json")["subscribers"])
 end
 nscribs = map(/,q[2],scribs)
 
