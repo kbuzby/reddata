@@ -4,10 +4,7 @@ import SQLite
 using Gadfly
 using Gumbo
 
-function getjson(app)
-	req = get("http://www.reddit.com/$app")
-	return JSON.parse(req.data)["data"]
-end
+getjson(app) = JSON.parse((get("http://www.reddit.com/$app")).data)["data"]
 
 db = SQLite.SQLiteDB("/home/kyle/dev/reddata/postdb")
 
