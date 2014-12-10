@@ -77,10 +77,10 @@ p = plot(x=q[1],y=q[2],Geom.bar,Guide.xlabel("subreddit"),Guide.ylabel("# of Top
 draw(SVGJS("/home/kyle/dev/reddata/topsubs.js.svg", 8inch, 6inch), p)
 
 scribs = ones(Int64,length(q[2]))
-for index in enumerate(q[1])
+for (index,sub) in enumerate(q[1])
 	url = "http://www.reddit.com/r/$sub/about.json"
 	req = get(url)
-	scribs[index[1]] = JSON.parse(req.data)["data"]["subscribers"]
+	scribs[index] = int(JSON.parse(req.data)["data"]["subscribers"])
 end
 nscribs = map(/,q[2],scribs)
 
