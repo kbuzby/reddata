@@ -1,68 +1,55 @@
-import JSON
-import Requests
-import SQLite
+importall JSON
+importall Requests
+import SQLite: SQLiteDB, query
 using Gadfly
 using Gumbo
 
+#define common used functions
+
+#get json from specified reddit site
 getjson(app) = JSON.parse((get("http://www.reddit.com/$app")).data)["data"]
 
-db = SQLite.SQLiteDB("/home/kyle/dev/reddata/postdb")
+#replace quotes in strings since it interferes with SQLite queries
+repquotes(str) = replace("$str",['\'','"'],"")
+
+db = SQLiteDB("/home/kyle/dev/reddata/postdb")
 
 Top5Posts = map((post) -> post["data"], getjson("r/all/.json")["children"][1:5])
 
 #determine if the top5 is a fresh top 5
-freshset = true
-for post in Top5Posts
-	title = replace(post["title"],['\'','"'],"")
-	test = SQLite.query(db, "SELECT title FROM Top5Posts WHERE title='$(title)'")
-	if test[1][1] == title
-		freshset = false
-		break
-	end
-end
+freshset = convert(Bool, minimum(map(title-> query(db, "SELECT EXISTS(SELECT 1 FROM Top5Posts WHERE title='$title')")[1][1], map(post->repquotes(post["title"]), Top5Posts))))
 
 #delete previous top5 from table, and set time of update
 if freshset
-	SQLite.query(db, "DELETE FROM Top5Posts")
-	SQLite.query(db, "INSERT INTO refreshes VALUES('$(Dates.datetime2unix(Dates.now()))')")
+	query(db, "DELETE FROM Top5Posts")
+	query(db, "INSERT INTO refreshes VALUES('$(Dates.datetime2unix(Dates.now()))')")
 end
 
-
-i = 1
-for post in Top5Posts
+for (index, post) in enumerate(Top5Posts)
 	#get desired values
-	title = replace(post["title"],['\'','"'],"")
-	author = replace(post["author"],['\'','"'],"")
-	sub = replace(post["subreddit"],['\'','"'],"")
+	title = repquotes(post["title"])
+	author = repquotes(post["author"])
+	sub = repquotes(post["subreddit"])
 	created = post["created_utc"]
 	score = post["score"]
 	nsfw = convert(Int32, post["over_18"])
 
 	if freshset 
-		SQLite.query(db, "INSERT INTO Top5Posts VALUES(null,'$(title)','$(author)','$(sub)','$(created)','$(score)','$(nsfw)')")
+		SQLite.query(db, "INSERT INTO Top5Posts VALUES(null,'$title','$author','$sub','$created','$score','$nsfw')")
 	end
 
 	#check if post exists
-	postexists = false
-	test = SQLite.query(db, "SELECT title FROM AllPosts WHERE title='$(title)'")
-	if test[1][1] == title
-		postexists = true
-	end
-
-	if postexists
-		pdata = SQLite.query(db, "SELECT topRank,topScore FROM AllPosts WHERE title='$(title)'")
-		curRank = pdata[1][1]
-		curScore = pdata[2][1]
-		if curRank > i
-			SQLite.query(db, "UPDATE AllPosts SET topRank=$i WHERE title='$(title)'")
+	if convert(Bool, query(db, "SELECT EXISTS(SELECT 1 FROM AllPosts WHERE title='$title')")[1][1])
+		pdata = query(db, "SELECT topRank,topScore FROM AllPosts WHERE title='$title'")
+		if pdata[1][1] > index
+			SQLite.query(db, "UPDATE AllPosts SET topRank=$index WHERE title='$title'")
 		end
-		if curScore > score
-			SQLite.query(db, "UPDATE AllPosts SET topScore=$(score) WHERE title='$(title)'")
+		if pdata[2][1] > score
+			SQLite.query(db, "UPDATE AllPosts SET topScore=$(score) WHERE title='$title'")
 		end
 	else
-		SQLite.query(db, "INSERT INTO AllPosts VALUES($i,'$(title)','$(author)','$(sub)','$(created)','$(score)','$(nsfw)')")
+		SQLite.query(db, "INSERT INTO AllPosts VALUES($index,'$title','$author','$sub','$created','$score','$nsfw')")
 	end
-	i += 1
 end
 
 #Get average refresh times
